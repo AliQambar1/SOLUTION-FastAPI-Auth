@@ -147,25 +147,25 @@ Aurevia is a car marketplace platform where **admins** can list cars for sale an
 
 ---
 
-### 🔹 Cars
+###  Cars
 4. As a user, I want to view all listed cars so I can explore available options.
 5. As a user, I want to distinguish between available and sold cars.
 6. As a user, I want to view detailed information about a car (model, price, specifications).
 
 ---
 
-### 🔹 Inquiries
+###  Inquiries
 7. As a user, I want to send an inquiry about a car to contact the admin.
 
 ---
 
-### 🔹 Auctions
+###  Auctions
 8. As a user, I want to participate in car auctions by placing bids.
 9. As a user, I want to view the highest bid and auction status.
 
 ---
 
-## 🛠️ Admin Stories
+##  Admin Stories
 
 1. As an admin, I want to log in securely.
 2. As an admin, I want to add new car listings.
@@ -177,9 +177,6 @@ Aurevia is a car marketplace platform where **admins** can list cars for sale an
 ---
 
 ## 🗺️ System Design
-
-### Routes
-![Routes image](Routes.png)
 
 ### UI Preview
 ![Screenshot]()

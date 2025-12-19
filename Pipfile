@@ -4,15 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-fastapi = "*"
-uvicorn = "*"
 sqlalchemy = "*"
 psycopg2-binary = "*"
 pydantic = "*"
-psycopg2 = "*"
 passlib = "*"
 bcrypt = "4.0.1"
 pyjwt = "*"
+uvicorn = "*"
+fastapi = "*"
+>>>>>>> d47bb3d (Adding README and Authentication and Authorization)
 
 [dev-packages]
 
