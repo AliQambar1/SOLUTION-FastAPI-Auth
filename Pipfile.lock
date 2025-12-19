@@ -1,8 +1,7 @@
 {
     "_meta": {
         "hash": {
-=======
-            "sha256": "ff8ff06f726a1275846c5d0efb17698c8401d8fd69562eb0ef95072ae1c3505d" d47bb3d (Adding README and Authentication and Authorization)
+            "sha256": "ff8ff06f726a1275846c5d0efb17698c8401d8fd69562eb0ef95072ae1c3505d"
         },
         "pipfile-spec": 6,
         "requires": {},
